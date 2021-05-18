@@ -1,0 +1,4 @@
+#Docker BD Image
+postgres-data/
+pgdata/
+data/
